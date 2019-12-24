@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=FaturaPendente
+comment0.text=\r\n\ Subclasse\ de\ Fatura,\ que\ guarda\ tambem\ a\ lista\ de\ Atividades\ Economicas\ da\ empresa\ emitente\ da\ fatura.\ So\ empresas\ com\ mais\ do\ que\ uma\ \r\n\ Atividade\ Economica\ e\ que\ criam\ objetos\ desta\ classe,\ para\ que\ o\ contribuinte\ escolha\ a\ Atividade\ Economica\ correta\ entre\ as\ atividades\ \r\n\ que\ constam\ nesta\ lista\ de\ atividades\ economicas,\ para\ assim\ validarem\ a\ fatura.\r\n\ @author\ Nuno\ Rei,\ Joao\ Marques,\ Luis\ Abreu\r\n\ @version\ Maio\ 2018\r\n
+comment1.params=
+comment1.target=FaturaPendente()
+comment1.text=\r\n\ Construtor\ vazio\r\n
+comment2.params=e\ design\ data\ c\ desc\ A\ v\ AEs
+comment2.target=FaturaPendente(java.lang.String,\ java.lang.String,\ java.time.LocalDate,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.util.ArrayList)
+comment2.text=\r\n\ Construtor\ parametrizado\r\n\ @param\ NIFemitente,\ Designacao,\ Data,\ NIFcliente,\ Descricao,\ Atividade\ Economica,\ valor,\ Lista\ de\ Atividades\ Economicas\r\n
+comment3.params=f
+comment3.target=FaturaPendente(FaturaPendente)
+comment3.text=\r\n\ Construtor\ por\ objeto\ \r\n\ @param\ Objeto\ desta\ Classe\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getAEconomicas()
+comment4.text=\r\n\ @return\ Lista\ de\ Atividades\ Economicas\r\n
+comment5.params=AEs
+comment5.target=void\ setAEconomicas(java.util.ArrayList)
+comment5.text=\r\n\ Set\ de\ Atividades\ Economicas\r\n\ @param\ Lista\ de\ Atividades\ Economicas\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Informacao\ da\ FaturaPendente\ em\ formato\ String\r\n\ @param\ String\ com\ informaca\ da\ fatura\r\n
+comment7.params=
+comment7.target=FaturaPendente\ clone()
+comment7.text=\r\n\ Clone\ de\ FaturaPendente\r\n\ @return\ Clone\ da\ FaturaPendente\r\n
+numComments=8

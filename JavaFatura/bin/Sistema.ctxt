@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Sistema
+comment0.text=\r\n\ @author\ nuno\r\n\r\n
+comment1.params=
+comment1.target=Sistema()
+comment2.params=faturas\ users
+comment2.target=Sistema(java.util.HashMap,\ java.util.HashMap)
+comment3.params=s
+comment3.target=Sistema(Sistema)
+comment4.params=
+comment4.target=java.util.Map\ getUsers()
+comment4.text=\r\n\ @return\ the\ users\r\n
+comment5.params=users
+comment5.target=void\ setUsers(java.util.HashMap)
+comment5.text=\r\n\ @param\ users\ the\ users\ to\ set\r\n
+comment6.params=NIF
+comment6.target=boolean\ procuraUser(java.lang.String)
+comment7.params=c
+comment7.target=void\ adicionaUser(Contribuinte)
+numComments=8

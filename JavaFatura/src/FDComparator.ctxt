@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FDComparator
+comment0.text=\r\n\ Comparador\ de\ Datas\ entre\ duas\ Faturas\ \r\n\ Retorna\ -1,\ se\ e\ uma\ data\ anterior,\ 1\ se\ e\ uma\ data\ posterior,\ 0\ caso\ sejam\ iguais.\r\n\r\n\ @author\ Nuno\ Rei\r\n\ @author\ Joao\ Marques\r\n\ @author\ Luis\ Abreu\r\n\ @version\ Maio\ 2018\r\n
+comment1.params=f1\ f2
+comment1.target=int\ compare(Fatura,\ Fatura)
+numComments=2

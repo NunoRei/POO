@@ -1,0 +1,65 @@
+Class documentation
+<---- javadoc command: ---->
+D:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+D:\Program Files (x86)\BlueJ\lib\bluejcore.jar;D:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;D:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;D:\Program Files (x86)\BlueJ\lib\lang-stride.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;D:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;D:\POO\JavaFatura\src
+-d
+D:\POO\JavaFatura\src\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+D:\POO\JavaFatura\src\Sistema.java
+<---- end of javadoc command ---->
+Loading source file D:\POO\JavaFatura\src\Sistema.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_144
+Building tree for all the packages and classes...
+Generating D:\POO\JavaFatura\src\doc\Sistema.html...
+D:\POO\JavaFatura\src\Sistema.java:51: warning - @param argument "Map" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:51: warning - @param argument "Map" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:62: warning - @param argument "Sistema" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:258: warning - @param argument "NIF" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:234: warning - @param argument "NIF" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:172: warning - @param argument "Fatura" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:154: warning - @param argument "FaturaPendete" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:135: warning - @param argument "Um" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:222: warning - @param argument "Fatura" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:208: warning - @param argument "Fatura" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:325: warning - @param argument "NIF" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:325: warning - @param argument "Data" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:325: warning - @param argument "Data" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:290: warning - @param argument "NIF" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:290: warning - @param argument "NIF" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:290: warning - @param argument "Data" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:290: warning - @param argument "Data" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:307: warning - @param argument "NIF" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:307: warning - @param argument "NIF" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:358: warning - @param argument "N" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:270: warning - @param argument "NIF" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:270: warning - @param argument "Comparator" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:87: warning - @param argument "Numero" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:379: warning - @param argument "NIF" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:194: warning - @param argument "String" is not a parameter name.
+D:\POO\JavaFatura\src\Sistema.java:194: warning - @param argument "String" is not a parameter name.
+Generating D:\POO\JavaFatura\src\doc\package-frame.html...
+Generating D:\POO\JavaFatura\src\doc\package-summary.html...
+Generating D:\POO\JavaFatura\src\doc\constant-values.html...
+Generating D:\POO\JavaFatura\src\doc\serialized-form.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating D:\POO\JavaFatura\src\doc\allclasses-frame.html...
+Generating D:\POO\JavaFatura\src\doc\allclasses-noframe.html...
+Generating D:\POO\JavaFatura\src\doc\index.html...
+26 warnings

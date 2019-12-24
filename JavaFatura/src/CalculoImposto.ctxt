@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CalculoImposto
+comment0.text=\r\n\ Interface\ implementada\ pelo\ Contribuinte\ Individual\ e\ Empresariais.\ \r\n\r\n\ @author\ Nuno\ Rei,\ Joao\ Marques,\ Luis\ Abreu\r\n\ @version\ Maio\ 2018\r\n
+comment1.params=
+comment1.target=double\ reducaoImposto()
+numComments=2

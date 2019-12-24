@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=JavaFatura
+comment0.text=\r\n\ @author\ Nuno\ Rei,\ Joao\ Marques\ e\ Luis\ Abreu\r\n\r\n
+comment1.params=
+comment1.target=JavaFatura()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment10.text=\r\n\ @param\ args\r\n
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=int\ executaMenu()
+comment4.params=
+comment4.target=void\ login()
+comment5.params=
+comment5.target=void\ loginasAdmin()
+comment6.params=
+comment6.target=void\ register()
+comment7.params=user
+comment7.target=void\ logadoComoIndividual(Individual)
+comment8.params=user
+comment8.target=void\ menuValidacao(Individual)
+comment9.params=user
+comment9.target=void\ logadoComoEmpresa(Empresariais)
+numComments=11

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FVComparator
+comment0.text=\r\n\ Comparador\ do\ Valor\ entre\ duas\ Faturas\ \r\n\ -1\ se\ a\ primeira\ e\ menor,\ 1\ se\ for\ maior,\ 0\ se\ forem\ iguais.\r\n\r\n\ @author\ Nuno\ Rei\r\n\ @author\ Joao\ Marques\r\n\ @author\ Luis\ Abreu\r\n\ @version\ Maio\ 2018\r\n
+comment1.params=f1\ f2
+comment1.target=int\ compare(Fatura,\ Fatura)
+numComments=2

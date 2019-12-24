@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TotalGastoComparator
+comment0.text=\r\n\ Comparador\ do\ total\ gasto\ entre\ dois\ Contribuintes\ Individuais.\r\n\ -1\ caso\ o\ primero\ tenha\ gasto\ menos,\ 1\ se\ gastou\ mais,\ desempate\ feito\ atraves\ da\ diferenca\ entre\ nifs.\r\n\r\n\ @author\ Nuno\ Rei\r\n\ @author\ Joao\ Marques\r\n\ @author\ Luis\ Abreu\r\n\ @version\ Maio\ 2018\r\n
+comment1.params=i1\ i2
+comment1.target=int\ compare(Individual,\ Individual)
+numComments=2

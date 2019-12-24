@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=NotIndividualExcp
+comment0.text=\r\n\ Exceccao\ para\ Contribuintes\ que\ nao\ sao\ individuais\r\n\r\n\ @author\ Nuno\ Rei\r\n\ @author\ Joao\ Marques\r\n\ @author\ Luis\ Abreu\r\n\ @version\ Maio\ 2018\r\n
+comment1.params=
+comment1.target=NotIndividualExcp()
+comment2.params=s
+comment2.target=NotIndividualExcp(java.lang.String)
+numComments=3

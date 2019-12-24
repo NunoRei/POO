@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TotalFaturadoComparator
+comment0.text=\r\n\ Comparador\ do\ total\ faturado\ entre\ duas\ empresas.\r\n\ -1\ se\ a\ primeira\ empresa\ faturou\ menos,\ 1\ se\ faturou\ mais,\ e\ se\ faturaram\ o\ mesmo,\ o\ desempate\ e\ feito\ com\ a\ diferenca\ entre\ NIFs.\r\n\r\n\ @author\ Nuno\ Rei\r\n\ @author\ Joao\ Marques\r\n\ @author\ Luis\ Abreu\r\n\ @version\ Maio\ 2018\r\n
+comment1.params=e1\ e2
+comment1.target=int\ compare(Empresariais,\ Empresariais)
+numComments=2

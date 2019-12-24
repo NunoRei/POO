@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Distritos
+comment0.text=\r\n\ Classe\ com\ 11\ Distritos\ de\ Portugal,\ no\ formato\ de\ constantes,\ e\ e\ utilizada\ para\ associar\ a\ localizacao\ das\ empresas\ com\ valores\ de\ deducao\ \r\n\ fiscal\ variados\ consoante\ o\ Distrito.\ A\ discriminacao\ e\ feita\ com\ base\ no\ numero\ de\ habitantes\ destes\ Distritos,\ beneficiando\ mais\ aqueles\ com\r\n\ menos\ populacao.\r\n\r\n\ @author\ Nuno\ Rei,\ Joao\ Marques,\ Luis\ Abreu\r\n\ @version\ Maio\ 2018\r\n
+comment1.params=
+comment1.target=Distritos()
+comment1.text=\r\n\ Constructor\ Vazio\r\n
+comment2.params=dis
+comment2.target=java.lang.String\ associa(java.lang.String)
+comment2.text=\r\n\ Associa\ o\ Distrito\ com\ um\ dos\ que\ possuem\ deducao\ fiscal,e\ faz\ a\ conversao\ de\ numero\ para\ Distrito\ associado\r\n\ @param\ Distrito\ String\ com\ numero\r\n\ @return\ Distrito\r\n
+comment3.params=dis
+comment3.target=double\ deducaoAssociada(java.lang.String)
+comment3.text=\r\n\ Atribuicao\ da\ deducao\ associada\ a\ cada\ Distrito,\ quanto\ mais\ populacao\ o\ Distrito\ tiver\ menos\ sera\ a\ deducao\ a\ ele\ associada\r\n\ @param\ Distrito\ \r\n\ @return\ Deducao\ associada\r\n
+comment4.params=
+comment4.target=java.lang.String\ legendaDistritos()
+comment4.text=\r\n\ Legenda\ que\ seve\ como\ menu\ para\ a\ escolha\ de\ Distritos\r\n\r\n\ @return\ Legenda\ com\ os\ Distritos\ associados\ a\ numeros.\r\n
+numComments=5

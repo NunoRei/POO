@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AtividadesEconomicas
+comment0.text=\r\n\ Classe\ com\ 11\ Atividades\ Economicas,\ no\ formato\ de\ constantes,\ e\ que\ apresentam\ valores\ de\ deducao\ \r\n\ fiscal\ variados\ consoante\ a\ atividade\ em\ questao.\r\n\ \r\n\ @author\ Nuno\ Rei,\ Joao\ Marques,\ Luis\ Abreu\r\n\ @version\ Maio\ 2018\r\n
+comment1.params=
+comment1.target=AtividadesEconomicas()
+comment1.text=\r\n\ Construtor\ vazio\r\n
+comment2.params=ae
+comment2.target=java.lang.String\ associa(java.lang.String)
+comment2.text=\r\n\ Associa\ a\ Atividade\ Economica\ com\ uma\ das\ que\ possuem\ deducao\ fiscal,e\ faz\ a\ conversao\ de\ numero\ para\ Atividade\ Economica\ associado\r\n\ @param\ Atividade\ Economica\ numa\ String\ com\ numero\r\n\ @return\ Atividade\ Economica\r\n
+comment3.params=ae
+comment3.target=double\ deducaoAssociada(java.lang.String)
+comment3.text=\r\n\ Atribuicao\ da\ deducao\ associada\ a\ cada\ Atividade\ Economica\r\n\ @param\ Atividade\ Economica\ \r\n\ @return\ Deducao\ associada\r\n
+comment4.params=
+comment4.target=java.lang.String\ legendaAE()
+comment4.text=\r\n\ Legenda\ que\ seve\ como\ menu\ para\ a\ escolha\ de\ Atividades\ Economicas\r\n\r\n\ @return\ Legenda\ com\ as\ Atividades\ Economicas\ associadas\ a\ numeros.\r\n
+numComments=5
